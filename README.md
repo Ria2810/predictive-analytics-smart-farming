@@ -5,9 +5,9 @@ Welcome to **Predictive Analytics in Smart Farming** – a cutting-edge Flask ap
 ---
 ## Demo
 
-Check out the demo of the meeting scheduler in action:
+Check out the demo of KrishiFarms.ai in action:
 
-![Demo Video](krishifarms_demo.mp4)
+![Demo Video](krishifarms-demo.gif)
 
 ---
 
